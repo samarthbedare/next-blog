@@ -73,11 +73,11 @@ export default function Header() {
           />
         </SignedIn>
         <SignedOut>
-          <Link href='/sign-in'>
-            <Button gradientDuoTone='purpleToBlue' outline>
-              Sign In
-            </Button>
-          </Link>
+            <Link href='/sign-in'>
+            <Button gradientDuoTone='purpleToBlue' outline>Sign In</Button>
+            </Link>
+            
+        
         </SignedOut>
         <Navbar.Toggle />
       </div>
