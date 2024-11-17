@@ -10,7 +10,7 @@ export default function About() {
               <p>
               Hello! I'm Samarth Bedare, a student developer currently studying Computer Engineering in India. As a hobbyist with a deep passion for technology, sports, cricket, movies, and more, I created NewsSpiral Blog to share my thoughts, ideas, and discoveries with the world. Through this blog, I aim to explore a wide variety of topics, from the latest tech developments to exciting sports updates and cinematic reviews.              </p>
               <p>
-              Being a student, I’m always learning, experimenting, and growing my skills in the ever-evolving field of computer engineering. This platform is a way for me to channel that creativity and connect with others who share similar interests. Thank you for visiting NewsSpiral Blog, and I hope you find something that catches your eye!
+              Being a student, Im always learning, experimenting, and growing my skills in the ever-evolving field of computer engineering. This platform is a way for me to channel that creativity and connect with others who share similar interests. Thank you for visiting NewsSpiral Blog, and I hope you find something that catches your eye!
               </p>
   
               <p>
