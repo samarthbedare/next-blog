@@ -77,6 +77,17 @@ export default function DashSidebar() {
               </Sidebar.Item>
             </Link>
           )}
+          {user?.publicMetadata?.isAdmin && (
+            <Link href='/dashboard/create-post'>
+              <Sidebar.Item
+                active={tab === 'Create post'}
+                icon={HiDocumentText}
+                as='div'
+              >
+                Create post
+              </Sidebar.Item>
+            </Link>
+          )}
           <Sidebar.Item icon={HiArrowSmRight} className='cursor-pointer'>
             <SignOutButton />
           </Sidebar.Item>

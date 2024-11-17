@@ -124,9 +124,20 @@ export default function CreatePostPage() {
               }
             >
               <option value='uncategorized'>Select a category</option>
-              <option value='javascript'>JavaScript</option>
-              <option value='reactjs'>React.js</option>
-              <option value='nextjs'>Next.js</option>
+              <option value='technology'>Technology</option>
+              <option value='movies'>Movies</option>
+              <option value='programming'>Programming</option>
+              <option value='gaming'>Gaming</option>
+              <option value='sports'>Sports</option>
+              <option value='cricket'>Cricket</option>
+              <option value='political'>Political</option>
+              <option value='health'>Health</option>
+              <option value='food'>Food</option>
+              <option value='finance'>Finance</option>
+              <option value='education'>Education</option>
+              <option value='trending'>Trending</option>
+              <option value='india'>India</option>
+              <option value='world'>World</option>
             </Select>
           </div>
           <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
