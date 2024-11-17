@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/.well-known/vercel/microfrontend-routing",
+        "status": 404
+      }
+    ]
+  }
+  
