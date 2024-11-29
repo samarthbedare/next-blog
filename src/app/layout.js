@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
       <html lang="en" suppressHydrationWarning>
         <head>
           <ThemeModeScript/>
-          <meta name="google-site-verification" content="EsgS8g7428A80j8uTOoRtELeDOoHzRw6wHXGrYuF9W8" />
+          <meta name="google-site-verification" content="IxKbPgnRRhneS7GFQpbRrNBV2Npx6QguhsXQqBQQ8rk" />
 
         </head>
         <body
