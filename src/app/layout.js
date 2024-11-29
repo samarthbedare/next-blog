@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
       <html lang="en" suppressHydrationWarning>
         <head>
           <ThemeModeScript/>
-          <meta name="google-site-verification" content="jtGdDh2V26hDKP6fVGbjuzJ_f0WUlD-0E4DLZfKiReA" />
+          <meta name="google-site-verification" content="IxKbPgnRRhneS7GFQpbRrNBV2Npx6QguhsXQqBQQ8rk" />
         </head>
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
