@@ -22,7 +22,8 @@ export default async function PostPage({ params }) {
     return (
       <>
         <Head>
-        <meta name="google-site-verification" content="IxKbPgnRRhneS7GFQpbRrNBV2Npx6QguhsXQqBQQ8rk" />
+        <meta name="google-site-verification" content="EsgS8g7428A80j8uTOoRtELeDOoHzRw6wHXGrYuF9W8" />
+
         </Head>
         <main className="p-3 flex flex-col max-w-6xl mx-auto min-h-screen">
           <h2 className="text-3xl mt-10 p-3 text-center font-serif max-w-2xl mx-auto lg:text-4xl">
@@ -36,7 +37,8 @@ export default async function PostPage({ params }) {
   return (
     <>
       <Head>
-      <meta name="google-site-verification" content="IxKbPgnRRhneS7GFQpbRrNBV2Npx6QguhsXQqBQQ8rk" />
+      <meta name="google-site-verification" content="EsgS8g7428A80j8uTOoRtELeDOoHzRw6wHXGrYuF9W8" />
+
         <title>{post.title}</title>
       </Head>
       <main className="p-3 flex flex-col max-w-6xl mx-auto min-h-screen">
